@@ -8,5 +8,8 @@ public class TestClass {
 	public void method2() {
 		String b = "method 2";
 	}
+	public void method3() {
+		String b = "method 3";
+	}
 
 }
