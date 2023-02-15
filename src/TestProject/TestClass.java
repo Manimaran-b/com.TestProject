@@ -11,5 +11,8 @@ public class TestClass {
 	public void method2() {
 		String b = "method 2";
 	}
+	public void method3() {
+		System.out.println("aaaa");
+	}
 
 }	
