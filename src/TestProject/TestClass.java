@@ -14,5 +14,8 @@ public class TestClass {
 	public void method323() {
 		System.out.println("aaaa");
 	}
+	public void method420() {
+		System.out.println("420");
+	}
 
 }	
