@@ -11,7 +11,7 @@ public class TestClass {
 	public void method2() {
 		String b = "method 2";
 	}
-	public void method3() {
+	public void method323() {
 		System.out.println("aaaa");
 	}
 
